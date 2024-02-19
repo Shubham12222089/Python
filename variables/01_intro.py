@@ -14,4 +14,4 @@
 
 human = True
 print(human)
-print("Are you a human: "+human)
+print("Are you a human: "+str(human))
