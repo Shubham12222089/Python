@@ -1,5 +1,5 @@
 #sset - collecction which is unordered, unindexed . No duplicate values
-
+#------------------------------------------
 utensils = {"fork","spoon","knife","fork","cup"}
 
 # utensils.add("napk")
