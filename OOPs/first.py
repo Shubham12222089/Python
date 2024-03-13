@@ -1,3 +1,4 @@
+#class name should start with capital letters.
 class Car:
     make = None
     model = None
